@@ -1,4 +1,4 @@
-# HW-management-of-gardens-in-the-city
+# management-of-gardens-in-the-city
 In this projects ,i management of gardens in the city by add child to specific graden and sort them in any garden and other things
 
 In the main.c: 
